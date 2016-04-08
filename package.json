@@ -1,0 +1,28 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "webpack reatjs",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --progress --colors --hot --inline",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XINYUHAI77/webpack.git"
+  },
+  "keywords": [
+    "x56152827"
+  ],
+  "author": "xinyuhai77",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XINYUHAI77/webpack/issues"
+  },
+  "homepage": "https://github.com/XINYUHAI77/webpack#readme"
+}
